@@ -6,7 +6,7 @@ IMC = peso / altura², onde o peso é fornecido em quilogramas (kg) e a altura e
 
 O IMC é arredondado para duas casas decimais.
 
-Como usar:
+# Como usar:
 
 -Clone ou faça o download deste repositório.
 
@@ -28,7 +28,7 @@ Como usar:
 
 -O resultado será exibido no console.
 
-Exemplo:
+# Exemplo:
 
 Qual é a sua altura: 1.75
 
@@ -36,7 +36,7 @@ Qual é o seu peso em kg: 68
 
 Seu resultado foi 22.2 - Normal
 
-Notas:
+# Notas:
 
 -Certifique-se de ter o Python instalado em seu sistema.
 
